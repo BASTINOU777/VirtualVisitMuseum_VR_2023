@@ -8,12 +8,12 @@ une façon moderne et totalement unique d’apprécier l’art.
 d’ouvrir les portes de la culture à un public plus large.
 de donner l'accès à l’art à des personnes non mobiles. 
 ## Exigences fonctionnelles: 
-###User Interface 
+User Interface 
 Le déplacement du visiteur sera réalisé avec les contrôleurs manettes du casque.
 L’utilisateur pourra, s’il le désire interagir avec un artiste, qui sera modélisé, pour parler de son œuvre ou de son exposition. 
 Plusieurs artistes seront présents dans le lieu.
 
-###Art Style 
+Art Style 
 Modélisée virtuellement un lieu de type friche industrielle abandonnée et rénovée. 
 L’ambiance du lieu sera zen, végétalisé et agréable.
 L’utilisateur aura la possibilité de se balader là où il le désire mais les limites seront définies par l’intégration graphiques d’éléments du décor. 
