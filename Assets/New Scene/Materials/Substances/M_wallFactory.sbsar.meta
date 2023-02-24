@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c7e6af7fe3d1904d980b95d2730acd0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 710cb3e2ac75b604cb3d7a868ae4850a, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/New Scene/Materials/Substances/M_wallFactory.sbsar
