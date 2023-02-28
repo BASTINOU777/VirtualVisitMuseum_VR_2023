@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c65bfd2acd3dc044e81a7660157c06aa
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: ef638d7acf074ae45b48224fd781043d, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Adobe/rusty_metal.sbsar
