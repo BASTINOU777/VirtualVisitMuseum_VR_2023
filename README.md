@@ -28,4 +28,6 @@ Utilisation de Trello pour le suivi du projet.
 ## Date de rendu : 
 Le projet doit être réalisé pour le 10 Mars 2023 dans le cadre de l'école du métavers. 
 Une release avec le build d’une apk à jour sera demandé à cette date. 
+![Capture d'écran 2023-03-02 103001](https://user-images.githubusercontent.com/101596380/222557632-1154a405-9104-4e52-83db-c59710e11c13.png)
+![Capture d'écran 2023-03-02 222409](https://user-images.githubusercontent.com/101596380/222557635-082af134-5756-463c-867c-1d3c86dac570.png)
 ![Capture d'écran_20230224_152636](https://user-images.githubusercontent.com/101596380/221210903-77287733-613b-4ea8-9a4f-36e4620ed9a5.png)
