@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/New Scene/WorldInteractionDemo.unity
-    guid: 3d16fc5db26e2354e9ac2a5031a52e6d
+    path: Assets/New Scene/FactoryScene.unity
+    guid: 16e92f5ad5f52324abfea1315e73d50d
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f3d36b094c7e90a48bfeecc8253553a0,
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 305b79b24168aca45a755977beb9238d,
       type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: df8aae105e263a5468e482f51411abfe,
       type: 2}
@@ -17,5 +17,5 @@ EditorBuildSettings:
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0149783369da5b441af7e9b6279c307f,
       type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 58207546bb445ae40ad9c06ed0e40937,
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 690b08e271e358745bfa4c9c93733777,
       type: 2}
